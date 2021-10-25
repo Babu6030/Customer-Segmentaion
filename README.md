@@ -3,3 +3,5 @@ In this project, your task is to identify major customer segments on a transnati
 
 
 ![Example](https://github.com/Babu6030/Customer-Segmentaion/blob/main/customer%20segmentation.png)
+
+Here we sloved the online retail customer segmentation using using FRM technique and CLustered them using the K-Means Algorithm.
