@@ -29,3 +29,11 @@ The observations from the results are elaborately discussed before reaching the 
 
 
 [Click Here to view Presentation in Pdf](https://github.com/Babu6030/Customer-Segmentaion/blob/main/Clustering%20Ppt.pptx.pdf)
+
+# Final Conclusion
+• K-Means Clustering with Silhouette gives the highest score of 
+65% for number of clusters 3.
+
+• Sales has been increased from 2010 to 2011.
+
+• RFM for Cluster ID box plots tells well about Cluster detail.
